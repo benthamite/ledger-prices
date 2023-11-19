@@ -1,0 +1,3 @@
+#+title: ledger-prices
+
+~ledger-prices~ fetches stock, currency and cryptocurrency prices for [[https://ledger-cli.org/][ledger]].
