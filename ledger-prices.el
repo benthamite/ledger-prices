@@ -1,4 +1,4 @@
-;;; ledger-prices.el --- Fetch stock, currency and cryptocurrency prices for Ledger -*- lexical-binding: t -*-
+;;; ledger-prices.el --- Fetch stock, currency and cryptocurrency prices for ledger -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2023
 
@@ -23,7 +23,7 @@
 
 ;;; Commentary:
 
-;; Fetch stock, currency and cryptocurrency prices for Ledger.
+;; Fetch stock, currency and cryptocurrency prices for `ledger'.
 
 ;;; Code:
 
